@@ -47,3 +47,7 @@ if( class_exists( 'Read_Read' ) ) {
 ## Changlog
 **1.0**
 * Initial Release
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/twittem/wp-read-read/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+

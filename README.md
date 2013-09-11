@@ -2,7 +2,7 @@ Read / Read <sup>[reed][red]</sup>
 ============
 
 
-**A WordPress plugin that adds generates the estimated time to read a post and intelligently tracks when as user had read the post.**
+**A WordPress plugin that generates the estimated time to read a post and intelligently tracks when a user has read the post.**
 
 ![Screenshot](http://edwardmcintyre.com/pub/github/wp-read-read.jpg)
 
